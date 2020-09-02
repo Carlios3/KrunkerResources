@@ -9,3 +9,9 @@
   - If you like it, I can add more. 
   - There are some very good ones there
   - ENJOY!
+ ### Cheats
+  - Cheats
+  - If it is .zip, it is to be used as a unpacked extention.
+  - Else, it is a tampermonkey script.
+  - I post most recent krunker hacks on there.
+  - have fun!
