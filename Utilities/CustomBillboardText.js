@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Bilboard
+// @name         Custom text on billoards
 // @author       me
 // @match        *://krunker.io/*
 // @grant        none
