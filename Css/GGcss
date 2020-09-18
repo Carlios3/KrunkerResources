@@ -11,6 +11,6 @@
 
 let topsheet = document.getElementsByTagName("link")[4];
 let sheet = document.createElement("link");
-sheet.setAttribute("href", "https://raw.githubusercontent.com/GamingGurus/KrunkerResources/master/Css/test.cpp");
+sheet.setAttribute("href", "https://dl.dropbox.com/s/m8tcfaq9l0xmens/main.css?dl=0");
 sheet.setAttribute("rel", "stylesheet");
 topsheet.after(sheet);
