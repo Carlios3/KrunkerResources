@@ -1,0 +1,16 @@
+// ==UserScript==
+// @name         GoodCSS
+// @namespace    new
+// @version      0.1
+// @description  :)
+// @author       notPR
+// @match        *://krunker.io/*
+// @grant        none
+// @run-at       document-end
+// ==/UserScript==
+
+let topsheet = document.getElementsByTagName("link")[4];
+let sheet = document.createElement("link");
+sheet.setAttribute("href", "https://raw.githubusercontent.com/GamingGurus/KrunkerResources/master/Css/test.cpp");
+sheet.setAttribute("rel", "stylesheet");
+topsheet.after(sheet);
