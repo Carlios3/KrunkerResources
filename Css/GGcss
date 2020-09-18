@@ -5,7 +5,7 @@
 // @description  :)
 // @author       notPR
 // @match        *://krunker.io/*
-// @grant        none
+// @grant        none 
 // @run-at       document-end
 // ==/UserScript==
 
